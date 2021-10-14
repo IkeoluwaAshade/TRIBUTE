@@ -1,0 +1,14 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 0px;
+  width: 50%;
+}
+
+
+body{
+  background-color: #C5A880;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 1.5rem;
+}
